@@ -16,4 +16,4 @@ Mis expectativas para este proyecto son:
 3) Desarrollar mis habilidades como programador.
 4) Divertirme y disfrutar esta experiencia nueva.
 
-Si gustaría contactarme aquí te dejo algunas de mis redes sociales. :)
+Si te gustaría contactarme aquí te dejo algunas de mis redes sociales. :)

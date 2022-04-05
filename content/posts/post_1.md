@@ -1,6 +1,8 @@
+---
 title: "Mi experiencia en Launch X"
 date: 2022-04-05
 description: 'Te contare mi travesía en Launch X de Inovaccion Virtual'
+---
 
 Al incio no sabia de lo que trataría este curso ni el manejo que tendría sobre el, me asusto pero al mismo tiempo me emociono ver el temario que ofrecía. 
 

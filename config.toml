@@ -1,6 +1,6 @@
-baseURL = "https://github.com/MisaelSandovalF"
+baseURL = "https://misaelsandovalf.github.io/my_launchx_blog/"
 languageCode = "en-us"
-title = "Bitácora de Viaje"
+title = "Bitácora de Viaje de Misael Sandoal"
 theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true
